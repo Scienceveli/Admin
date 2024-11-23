@@ -98,7 +98,7 @@ Versatile IT professional with **9+ years** of experience in network infrastruct
 
 ## 🌐 **Connect with Me**
 [![Website](https://img.shields.io/badge/Website-Makavael.com-blue)](https://Makavael.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/Makavael)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/Scienceveli)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/makavael)  
 
 ---
